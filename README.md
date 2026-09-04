@@ -1,4 +1,4 @@
-# 🧠 DataMate — AI Data Analyst Assistant
+# DataMate — AI Data Analyst Assistant
 
 > Ask questions about your CSV data in plain English and get instant, data-driven answers with visualizations.
 
@@ -6,7 +6,7 @@ DataMate is an AI-powered data analysis application built with **Python, Streaml
 
 ---
 
-## ✨ Features
+## Features
 
 -  **CSV Upload** — Upload and explore your own datasets
 -  **Natural Language Queries** — Ask questions without writing Python code
@@ -18,7 +18,7 @@ DataMate is an AI-powered data analysis application built with **Python, Streaml
 
 ---
 
-## 🖥️ How It Works
+## How It Works
 
 ```text
         CSV Dataset
@@ -48,7 +48,7 @@ DataMate is an AI-powered data analysis application built with **Python, Streaml
 
 ---
 
- ## 💡 Example Questions
+ ## Example Questions
 
 DataMate can answer questions such as:
 
@@ -60,7 +60,7 @@ DataMate can answer questions such as:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -73,7 +73,7 @@ DataMate can answer questions such as:
 
 ---    
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/amirthayani874-gif/DataMate-AI-Data-Analyst.git
@@ -90,7 +90,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal of DataMate is to make data analysis accessible to users who may not know how to write Python or Pandas code.
 
@@ -98,7 +98,7 @@ Instead of manually writing queries and analysis code, users can simply ask ques
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 1. Support for Excel and other file formats
 2. More advanced visualizations
@@ -109,7 +109,7 @@ Instead of manually writing queries and analysis code, users can simply ask ques
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Sathya Varshaa S. T
 
